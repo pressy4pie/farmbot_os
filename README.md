@@ -1,4 +1,2 @@
-# FarmbotOs
-
-**TODO: Add description**
-
+# farmbot_os
+HUGE WORK IN PROGRESS. BARELY BOOTS.
